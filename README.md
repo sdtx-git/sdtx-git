@@ -11,7 +11,6 @@ Atuo com governança de processos na Hapvida NotreDame Intermédica, construindo
 
 - **[LockPin](https://github.com/sdtx-git/LockPin)**: gerenciador de senhas local-first e zero-knowledge em Tauri v2, Rust e React. AES-256-GCM, Argon2id, TOTP, cofre de coação e kill switch.
 - **[Ecossistema de Governança de Pessoas](https://github.com/sdtx-git/ecossistema-portfolio)**: auditoria de hierarquia, SLA de reposições e compliance de jornada. FastAPI + JavaScript sem build, dados 100% sintéticos.
-- **[Password Manager Generator](https://github.com/sdtx-git/password-manager-generator)**: gerador e gerenciador de senhas em Python com armazenamento local criptografado.
 
 ## Stack
 
