@@ -2,7 +2,7 @@
 
 **Segurança da Informação · SOC & Blue Team · Python & Automação**
 
-Atuo com governança de processos na Hapvida NotreDame Intermédica, construindo ferramentas internas de dados e automação. Hoje direciono minha carreira para Segurança da Informação, com foco em SOC, análise de logs e detecção de ameaças.
+Atuo com governança de processos, construindo ferramentas de dados e automação. Hoje direciono minha carreira para Segurança da Informação, com foco em SOC, análise de logs e detecção de ameaças.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jmartinsce-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmartinsce/)
 ![Fortaleza](https://img.shields.io/badge/Fortaleza-CE%2C%20Brasil-2ea44f?style=flat-square)
